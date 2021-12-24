@@ -1,0 +1,19 @@
+{
+  "name": "hospital",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+  
+    "type": "git",
+    "url": "https://github.com/ela-zel/hospitalteam"
+  },
+  "author": "Ela Zelfani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "git": "^0.1.5",
+    "vue": "^3.0.5"
+  }
+}
