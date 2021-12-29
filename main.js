@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 // simple route
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to your hospital application." });
+  res.json({ message: "Welcome to your hospital application page." });
 });
 
 // set port, listen for requests
